@@ -1,0 +1,13 @@
+gpa_analysis_env/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.csv
+*.sqlite3
+*.db
+.vscode/
+.DS_Store
+.idea/
+*.pyc
+*.pyo
+*.swp
