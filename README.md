@@ -30,13 +30,14 @@ The notebook, **CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb**, pr
 ## 🐂 **Repository Structure**
 ```
 📂 SPC-2025-BAS-Cyber-Graduation-Vizs
-🏋️\200d♂️ CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb  # Main notebook
-📁 data/                   # Stores CSV files for analysis
+📁 notebooks/              # Jupyter notebooks
+  🏋️‍♂️ CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb
+📁 data/                   # Add your CSV files here
 📁 images/                 # Contains degree image
 📁 plots/                  # Saves generated charts
-🏋️\200d♂️ README.md               # This documentation
-🏋️\200d♂️ requirements.txt        # Required dependencies
-🏋️\200d♂️ .gitignore              # Ignoring unnecessary files
+🏋️‍♂️ README.md               # This documentation
+🏋️‍♂️ requirements.txt        # Required dependencies
+🏋️‍♂️ LICENSE                 # Project license
 ```
 
 ---
@@ -64,12 +65,12 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-- Open **CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb** and execute the cells.
+- Open **notebooks/CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb** and execute the cells.
 
 ---
 
 ## 📊 **Data Used**
-The analysis is based on CSV files stored in the `data/` folder:
+The analysis is based on CSV files stored in the `data/` folder (create this directory if it does not exist):
 - **gpa_over_time.csv** – Contains term-wise GPA data.
 - **course_grades_distribution.csv** – Holds course grades for visualization.
 
