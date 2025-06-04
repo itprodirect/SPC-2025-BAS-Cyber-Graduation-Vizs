@@ -43,6 +43,7 @@ The notebook, **CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb**, pr
 ---
 
 ## ⚙️ **Installation & Usage**
+*Requires **Python 3.11** or later.*
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/itprodirect/SPC-2025-BAS-Cyber-Graduation-Vizs.git
