@@ -75,6 +75,8 @@ jupyter notebook
 The analysis expects CSV files in the `data/` folder (create this directory if it does not exist).  Sample datasets are provided in `sample_data/`:
 - **gpa_over_time_sample.csv** – Example term GPA data.
 - **course_grades_distribution_sample.csv** – Example course grades.
+- **credits_attempted_vs_gpa_sample.csv** – Credits attempted vs cumulative GPA.
+- **milestones_sample.csv** – Example milestone events.
 
 You can copy these files into the `data/` folder or replace them with your own data using the same filenames.
 
