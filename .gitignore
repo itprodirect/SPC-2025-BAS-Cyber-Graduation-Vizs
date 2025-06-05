@@ -3,6 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.log
 *.csv
+!sample_data/*.csv
 *.sqlite3
 *.db
 .vscode/

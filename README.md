@@ -32,7 +32,8 @@ The notebook, **CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb**, pr
 📂 SPC-2025-BAS-Cyber-Graduation-Vizs
 📁 notebooks/              # Jupyter notebooks
   🏋️‍♂️ CyberGrad--My-Cybersecurity-Degree-in-Data-&-Visuals.ipynb
-📁 data/                   # Add your CSV files here
+📁 data/                   # Place your personal CSV files here
+📁 sample_data/            # Example CSVs for reference
 📁 images/                 # Contains degree image
 📁 plots/                  # Saves generated charts
 🏋️‍♂️ README.md               # This documentation
@@ -71,11 +72,11 @@ jupyter notebook
 ---
 
 ## 📊 **Data Used**
-The analysis is based on CSV files stored in the `data/` folder (create this directory if it does not exist):
-- **gpa_over_time.csv** – Contains term-wise GPA data.
-- **course_grades_distribution.csv** – Holds course grades for visualization.
+The analysis expects CSV files in the `data/` folder (create this directory if it does not exist).  Sample datasets are provided in `sample_data/`:
+- **gpa_over_time_sample.csv** – Example term GPA data.
+- **course_grades_distribution_sample.csv** – Example course grades.
 
-*(If any dataset is missing, update the paths or use your own data.)*
+You can copy these files into the `data/` folder or replace them with your own data using the same filenames.
 
 ---
 
